@@ -1,13 +1,12 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I am a geospatial ecologist who uses remote sensing and spatial data analytics to improve land management in tropical landscapes. My research interests include natural capital accounting, functional landscape rehabilitation, and computer vision.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Landscape Ecology
+    institution: University of teh Witwatersrand
+    year: 2008
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
@@ -16,9 +15,9 @@ education:
     year: 2008
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- LiDAR / RADAR
+- Fire ecology
+- Teaching spatial data science
 name: Shaun R Levick
 organizations:
 - name: Charles Darwin University
